@@ -7,4 +7,4 @@
 	url = https://github.com/mchlbckr/msbstatsdata
 [submodule "lcda"]
 	path = lcda
-	url = https://github.com/cran/lcda
+	url = https://github.com/mchlbckr/lcda
