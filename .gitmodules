@@ -5,6 +5,9 @@
 [submodule "MSBStatsData"]
 	path = MSBStatsData
 	url = https://github.com/mchlbckr/msbstatsdata
+[submodule "bunddev"]
+	path = bunddev
+	url = https://github.com/mchlbckr/bunddev
 [submodule "lcda"]
 	path = lcda
 	url = https://github.com/mchlbckr/lcda
