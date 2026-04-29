@@ -8,6 +8,9 @@
 [submodule "bunddev"]
 	path = bunddev
 	url = https://github.com/mchlbckr/bunddev
+[submodule "exams2ilias"]
+	path = exams2ilias
+	url = https://github.com/mchlbckr/exams2ilias
 [submodule "lcda"]
 	path = lcda
 	url = https://github.com/mchlbckr/lcda
